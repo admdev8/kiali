@@ -6,7 +6,6 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.3.5 // indirect
 	github.com/googleapis/gnostic v0.4.0 // indirect
@@ -23,10 +22,9 @@ require (
 	github.com/prometheus/procfs v0.0.10 // indirect
 	github.com/rs/zerolog v1.20.0
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/text v0.3.3 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
-	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20190313235455-40a48860b5ab
